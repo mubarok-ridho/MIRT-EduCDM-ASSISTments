@@ -54,6 +54,8 @@ Make sure to install dependencies such as `educdm` and related libraries before 
   Compute AUC, ACC, and POMDP reward metrics.  
 - **Visualization**  
   Display evaluation results across multiple folds.
+- **POMDP**
+  Integrate trained model result to POMDP
 
 ---
 
